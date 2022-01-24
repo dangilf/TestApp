@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ne66TQGHuI1smcl7Gjrcz+pyEBJzTMbY2QvRcpioEZqj1URj7I+4QNAgbxysJXiq0oh43jC2X2adMJoPp6e9A==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\TestApp\\CityTraffics\\CityTraffics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danil\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

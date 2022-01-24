@@ -1,0 +1,17 @@
+D:\Programming\TestApp\CityTraffics\bin\Debug\net6.0\CityTraffics.exe
+D:\Programming\TestApp\CityTraffics\bin\Debug\net6.0\CityTraffics.deps.json
+D:\Programming\TestApp\CityTraffics\bin\Debug\net6.0\CityTraffics.runtimeconfig.json
+D:\Programming\TestApp\CityTraffics\bin\Debug\net6.0\CityTraffics.dll
+D:\Programming\TestApp\CityTraffics\bin\Debug\net6.0\ref\CityTraffics.dll
+D:\Programming\TestApp\CityTraffics\bin\Debug\net6.0\CityTraffics.pdb
+D:\Programming\TestApp\CityTraffics\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.csproj.AssemblyReference.cache
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.AssemblyInfoInputs.cache
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.AssemblyInfo.cs
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.csproj.CoreCompileInputs.cache
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.csproj.CopyComplete
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.dll
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\ref\CityTraffics.dll
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.pdb
+D:\Programming\TestApp\CityTraffics\obj\Debug\net6.0\CityTraffics.genruntimeconfig.cache
