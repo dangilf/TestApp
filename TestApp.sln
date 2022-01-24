@@ -3,15 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{0F6EE22B-23F2-4C0A-A069-A2C64E17321B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityTraffics", "CityTraffics\CityTraffics.csproj", "{3DD86388-450B-495A-885A-39B2C0870EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1E446430-5CA7-4A2A-92C5-4F8C3B5CFC1C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTraffic", "CityTraffic\CityTraffic.csproj", "{CB5877BC-8FD4-4286-A2AC-E8C2D27578A6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTraffics", "CityTraffics\CityTraffics.csproj", "{3DD86388-450B-495A-885A-39B2C0870EE4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTrafficsTests", "CityTrafficsTests\CityTrafficsTests.csproj", "{9E8597CB-6556-4F19-8D18-5231D0789A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityTrafficsTests", "CityTrafficsTests\CityTrafficsTests.csproj", "{9E8597CB-6556-4F19-8D18-5231D0789A5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,18 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0F6EE22B-23F2-4C0A-A069-A2C64E17321B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F6EE22B-23F2-4C0A-A069-A2C64E17321B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F6EE22B-23F2-4C0A-A069-A2C64E17321B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F6EE22B-23F2-4C0A-A069-A2C64E17321B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E446430-5CA7-4A2A-92C5-4F8C3B5CFC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E446430-5CA7-4A2A-92C5-4F8C3B5CFC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E446430-5CA7-4A2A-92C5-4F8C3B5CFC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E446430-5CA7-4A2A-92C5-4F8C3B5CFC1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CB5877BC-8FD4-4286-A2AC-E8C2D27578A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CB5877BC-8FD4-4286-A2AC-E8C2D27578A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CB5877BC-8FD4-4286-A2AC-E8C2D27578A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CB5877BC-8FD4-4286-A2AC-E8C2D27578A6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3DD86388-450B-495A-885A-39B2C0870EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3DD86388-450B-495A-885A-39B2C0870EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DD86388-450B-495A-885A-39B2C0870EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
