@@ -75,7 +75,6 @@ namespace CityTraffics
 
                     var destination = destinations.Single();
 
-                    // 
                     var road = ToRoad(terminal, destination);
                     var population = ToRoadWithPopulation(terminal, destination, populationOfSource, allPopulation - populationOfSource);
                     populationOfRoads.Add(road, population);

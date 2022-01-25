@@ -25,7 +25,17 @@
       "ProjectGuid": "8aae1114-3243-4b09-b70e-ee5fbbf74560",
       "DisplayName": "TestLibrary",
       "ColorIndex": 3
+    },
+    "3dd86388-450b-495a-885a-39b2c0870ee4": {
+      "ProjectGuid": "3dd86388-450b-495a-885a-39b2c0870ee4",
+      "DisplayName": "CityTraffics",
+      "ColorIndex": 4
+    },
+    "9e8597cb-6556-4f19-8d18-5231d0789a5c": {
+      "ProjectGuid": "9e8597cb-6556-4f19-8d18-5231d0789a5c",
+      "DisplayName": "CityTrafficsTests",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }
